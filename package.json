@@ -15,7 +15,7 @@
     "connect-pg-simple": "^9.0.1",
     "@google-cloud/storage": "^7.11.0",
 
-    "drizzle-orm": "^0.33.0",
+    "drizzle-orm": "^0.45.2",
     "zod": "^3.23.8",
     "express-session": "^1.19.0",
     "framer-motion": "^11.18.2",
